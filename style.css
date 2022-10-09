@@ -2,6 +2,12 @@ body {
       font-family: Fantasy;
       background: rgb(153, 204, 255);
 }
+#sitewrapper {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
 
 .topnav {
   overflow: hidden;
