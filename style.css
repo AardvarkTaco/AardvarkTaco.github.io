@@ -1,3 +1,8 @@
+body {
+      font-family: Fantasy;
+      background: rgb(153, 204, 255);
+}
+
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -21,10 +26,7 @@
   background-color: #04AA6D;
   color: white;
 
-body {
-      font-family: Fantasy;
-      background: rgb(153, 204, 255);
-}
+
 
 h1 {
   text-align:center;
