@@ -1,7 +1,8 @@
 body {
-  background-color: lightblue;
+      font-family: Fantasy;
+      background: rgb(153, 204, 255);
 }
 
 h1 {
-  color: navy;
+  text-align:center;
 }
