@@ -3,7 +3,7 @@ body {
       background: rgb(255, 255, 255);
 }
 #sitewrapper {
-  margin: auto;
+  margin: auto; 
   width: 100%;
   padding: 0px;
   p.one {
