@@ -2,6 +2,7 @@ body {
       font-family: sans-serif;
       background: rgb(255, 255, 255);
 }
+
 #sitewrapper {
   margin: auto; 
   width: 100%;
@@ -13,8 +14,6 @@ body {
   border-radius: 0px;
   padding: 0px;
       }
-}
-
 
 .topnav {
   overflow: auto;
@@ -38,8 +37,12 @@ body {
 .topnav a.active {
   background-color: #989898;
   color: white;
+}
 
 h1 {
   text-align:center;
 }
 
+ul {
+  width: 60%;
+}
